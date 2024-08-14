@@ -1,0 +1,25 @@
+[
+    {
+        "podcastName": "Baixo Clero",
+        "episode": "Quando eu era neopenteca... | DDTcast #02",
+        "videoId": "omZpsJpPD5I",
+        "coverImage": "https://i.ytimg.com/vi/omZpsJpPD5I/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=omZpsJpPD5I",
+        "categories": [
+            "cristão",
+            "humor"
+        ]
+    },
+    {
+        "podcastName": "Flow",
+        "episode": "GUILHERME BRIGGS [+ RATO BORRACHUDO] - Flow #137",
+        "videoId": "kq5-KrRIS8k",
+        "coverImage": "https://i.ytimg.com/vi/kq5-KrRIS8k/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=kq5-KrRIS8k",
+        "categories": [
+            "entrevista",
+            "esporte",
+            "humor"
+        ]
+    }
+]

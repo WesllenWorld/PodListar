@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "target": "ES6",
+    "module": "CommonJS",
+    "outDir": "./dist",
+    "esModuleInterop": true                     /* Skip type checking all .d.ts files. */
+  }
+}
