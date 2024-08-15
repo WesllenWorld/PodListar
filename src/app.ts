@@ -9,7 +9,7 @@ export const app = async (request: http.IncomingMessage, response: http.ServerRe
 
     const url = request.url ?? ""
 
-    const [baseUrl, queryString] = url.split("?") ?? ["", ""]
+    const baseUrl = url.split("?")[0]
 
     if (request.method === HttpMethod.GET && baseUrl === Routes.LIST) {
         await getListEpisodes(request, response)
