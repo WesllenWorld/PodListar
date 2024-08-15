@@ -1,7 +1,7 @@
 {
   "name": "podlistar",
   "version": "1.0.0",
-  "description": "App gerenciador de episódios de podcasts separados por categorias",
+  "description": "App gerenciador de episódios de podcasts",
   "main": "index.js",
   
   "scripts": {
