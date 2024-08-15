@@ -2,7 +2,14 @@
 
 ## Descrição
 
-App gerenciador de episódios de podcasts separados por categorias
+App gerenciador de episódios de podcasts separados por categorias, sendo uma api feita em Node.js puro e TypeScript
+
+## Dependências
+
+- "@types/node": "^22.2.0",
+- "tsup": "^8.2.4",
+- "tsx": "^4.17.0",
+- "typescript": "^5.5.4
 
 ## Funcionalidades
 
@@ -12,7 +19,10 @@ App gerenciador de episódios de podcasts separados por categorias
 
 ## Como
 
-Retornando em uma API REST: o nome do episódio, nome do podcast, imagem de capa, link do episódio no Youtube, as categorias e o ID do vídeo
+Retornando em uma API REST: 
+
+- Lista dos episódios;
+- Por nome do Podcast: nome do episódio, nome do podcast, imagem de capa, link do episódio no Youtube, as categorias e o ID do vídeo.
 
 ```js
 
